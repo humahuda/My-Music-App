@@ -1,0 +1,38 @@
+@charset "ISO-8859-1";
+
+header{
+	background-color: #ec9358;
+	background-attachment: fixed;
+    background-position: center;
+	background-size: cover;
+	text-align: center;
+	color:#721a60;
+	font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 300;
+
+}
+
+h3{
+	color: #257ca3;
+}
+.section2{
+	background-color: burlywood;
+	text-align: center;
+	color: #721a60; 
+}
+
+
+
+.nav-link{
+	color: #257ca3;
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	font-size: large;
+	
+}
+
+
+
+.nav-item{
+	margin-right: 5%;
+	
+}

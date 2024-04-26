@@ -1,0 +1,23 @@
+@charset "ISO-8859-1";
+body
+{
+	background-image: url('/Images/adminhome.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+	margin-top: 1%;
+	margin-bottom: 1%;
+	
+}
+
+.play{
+	background: transparent;
+}
+
+.table{
+margin-top: 5%;
+border: solid 3px chocolate ;
+
+}
+

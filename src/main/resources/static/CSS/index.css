@@ -1,0 +1,65 @@
+@charset "ISO-8859-1";
+
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: black;
+ 
+}
+
+section{
+	background-color: #ec9358;
+	background-attachment: fixed;
+    background-position: center;
+	background-size: cover;
+}
+
+
+
+.section{
+	text-align: center;
+	padding-bottom: 2px;
+	color:#721a60;
+	font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 300;
+	
+	
+}
+
+
+.container2{
+	background-color: darkcyan;
+	background-attachment: fixed;
+   background-position: center;
+   background-size: cover;
+	
+}
+
+.nav-link{
+	text-decoration: none;
+	color: white;
+	font-size: 20px;
+	
+}
+
+.d-blick{
+	width: 15%;
+	height: 10%;
+}
+
+
+.pic1{
+	width: 50%;
+	float: left;
+}
+	
+.pic2{
+	width: 50%;
+	float: right;
+}
+	
+
+	
+	
+

@@ -1,0 +1,63 @@
+@charset "ISO-8859-1";
+body
+{
+	background-image: url('/Images/Rform.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+	margin-top: 1%;
+	margin-bottom: 1%;
+	
+}
+
+.container{
+    padding-top: 2%;
+    background-image: url('/Images/form.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    width: 600px;
+    height: 665px;
+    border-radius: 50px;
+    text-align: center;
+   
+    
+    
+    
+}
+
+h2{
+	color: #a13462;
+	font-family :serif;
+	
+}
+label{
+	
+	color: black;
+	font-size: 20px;
+}
+.input{
+	background: transparent;
+	width: 65%;
+	height: 8%;
+	border: solid 2px black;
+	
+    
+}
+
+
+
+.submit{
+	color: white;
+}
+
+.submit{
+	width: 45%;
+	height: 7%;
+	border: solid 2px black;
+	border-radius: 24%;
+    font-size: 20px;
+	background: linear-gradient(#721a60,#15aea2 );
+	
+}

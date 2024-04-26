@@ -1,0 +1,30 @@
+@charset "ISO-8859-1";
+
+
+.pay{
+	background-image: url('/Images/payment.jpg');
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	
+	width: 100%;
+	height: 200px;
+}
+
+.pay2{
+	text-align: center;
+	width: 70%;
+	margin-left: 24%;
+}
+button{
+	width: 25%;
+	height: 15%;
+	border: solid 2px 43015e;
+	border-radius: 15%;
+	background-color: #ee729d;
+}
+
+h2{
+	color:#a6015c ;
+	font-family:URW Chancery L, cursive ;
+}
